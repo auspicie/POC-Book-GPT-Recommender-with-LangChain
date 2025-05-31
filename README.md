@@ -6,7 +6,7 @@
     <img src="images/demo1.png" width=70%>
 </p>
 
-- When the user enters a topic, the recommender will give them back some book recommendations about that topic. Additionally, a Wikipedia search will also be conducted to generate a summary of the given topic based on some titles.
+When the user enters a topic, the recommender will provide them with links related to that topic. Additionally, a Wikipedia search will also be conducted to generate a summary of the given topic based on some titles.
 
 <p align="center">
     <img src="images/demo2.png" width=70%>
